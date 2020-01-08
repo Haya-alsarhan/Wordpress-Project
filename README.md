@@ -1,11 +1,11 @@
 
-Haandya -Project
+#Haandya -Project
 
-Introduction:
+#Introduction:
 
 This repository hosts the source code for full-service digital agency website.
 
-Technical Stack:
+#Technical Stack:
 
 Php
 Css3
